@@ -7,7 +7,7 @@ Chromium mobile back/forward cache bug (Blink) freezing Google AdSense scripts a
 - **Chromium Bug Tracker ID:** 544217146
 - **Affected Component:** `Blink>History>BackForwardCache`
 - **Impacted Services:** Google AdSense (Mobile Vignette Ads), Core Web Vitals (INP, CLS), Dynamic Site Scripts.
-- **AdSense Support Thread:** [https://google.com](https://support.google.com/adsense/thread/447696714/bug-doble-en-intersticiales-bfcache-aria-hidden-rompe-anuncios-m%C3%B3viles?hl=es)
+- **AdSense Support Thread:** https://support.google.com/adsense/thread/447696714/bug-doble-en-intersticiales-bfcache-aria-hidden-rompe-anuncios-m%C3%B3viles?hl=es
 
 
 ### Real Bug Mechanism & Technical Breakdown
